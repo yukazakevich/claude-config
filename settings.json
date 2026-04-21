@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(C:\\Users\\yukaz\\Downloads\\**)",
+      "Write(C:\\Users\\yukaz\\Downloads\\**)",
+      "Edit(C:\\Users\\yukaz\\Downloads\\**)"
+    ]
+  },
+  "autoUpdatesChannel": "latest",
+  "effortLevel": "xhigh"
+}

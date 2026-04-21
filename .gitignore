@@ -1,0 +1,16 @@
+# API-ключи и токены — никогда не заливать!
+.credentials.json
+
+# Кэш и временные файлы
+cache/
+image-cache/
+paste-cache/
+file-history/
+backups/
+
+# История чатов (большая и личная)
+history.jsonl
+projects/**/*.jsonl
+
+# Плагины (скачиваются автоматически)
+plugins/
