@@ -1,5 +1,11 @@
 {
   "permissions": {
+    "allow": [
+      "Read(C:\\claudework\\**)",
+      "Write(C:\\claudework\\**)",
+      "Edit(C:\\claudework\\**)",
+      "Bash(python *)"
+    ],
     "deny": [
       "Read(C:\\Users\\yukaz\\Downloads\\**)",
       "Write(C:\\Users\\yukaz\\Downloads\\**)",
